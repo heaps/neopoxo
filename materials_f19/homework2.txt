@@ -1,0 +1,21 @@
+#####################################################
+##############                      #################
+##############   1.125 Homework 2   #################
+##############  Hosting a Website   #################
+##############  With GitHub Pages   #################
+##############                      #################
+#####################################################
+
+## Description
+This week we looked at GitHub and how this vast community of developers share and create code across the world. GitHub has many useful features that aid in the development cycle. It even lets us host websites for free...
+
+## Your Task
+For Homework 2 you will create a new repo for the website you made in Homework 1 and host it on your GitHub account using GitHub pages. Once your site is up and running you will fork the class list repo from class and add the URL of your site next to your GitHub username and perform the same pull request procedure.
+
+Steps:
+1 – Create a new Repo in GitHub for your HW1
+2 – Perform the clone/add/push cycle to add all of the files to this repo from your local copy
+3 – Use the GitHub pages steps to host this website on your account
+4 – Perform the Fork/Pull Request cycle to the SamRaymond/classList repo to update your info with the URL of your new webpage.
+
+Due Date: Fri Sep 27, 5pm
