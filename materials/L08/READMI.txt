@@ -1,0 +1,6 @@
+copy server.js 
+Task 1 - build the package.json file
+You need to look at server.js to see what libraries to build
+Do you remember how to build an empty package.json initially - use npm  ????
+
+Task 2 - How do you run Node with server.js ? Check out that it works?
