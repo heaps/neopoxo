@@ -11,5 +11,5 @@ app.get('/color', function(req, res) {
     res.send(s+'<h1>My lucky number =  ' + num+'</h1>');
 });
 
-app.listen(3001);
-console.log("Running on port 3001");
+app.listen(3000);
+console.log("Running on port 3000");
