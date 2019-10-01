@@ -1,0 +1,13 @@
+Installing Docker on Windows 10 Home
+
+Head here to read about installing docker on your machine. The reason that the regular version of docker does not run on Windows 10 Home is because this version of Windows doesn't support something called Hypervisor that let's you create virtual machines (which is part of what the docker code does). But there is another wayt to do this.
+https://docs.docker.com/toolbox/toolbox_install_windows/ 
+
+Installing the toolbox
+https://github.com/docker/toolbox/releases/tag/v19.03.1 
+Scroll down and download the executable.
+
+Click through the installer and keep all of the defaults. 
+
+Once you are done with the installation, open the Applications and double-click on the docker QuickStart Icon to start a docker bash terminal where you can run the docker commands.
+To test the installation type docker --version and you should see the version number.
