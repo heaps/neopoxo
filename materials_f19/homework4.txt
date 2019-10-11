@@ -1,0 +1,27 @@
+#####################################################
+##############                      #################
+##############   1.125 Homework 4   #################
+##############  Creating a Docker   #################
+##############  Image and hosting   #################
+##############      on AWS          #################
+##############                      #################
+#####################################################
+
+## Description
+These past two weeks have looked at how we can develop code on one machine and using the tool Docker and the AWS platform, we can send this code anywhere to be accessed by anyone. This amazingly powerful skill allows us to quickly scale to level that were unthinkable only a few short years ago (and all for free thanks to the open-source movement).
+
+## Your Task
+For Homework 4 your task is to take the working server used to test for password/username combinations and package and deploy this on an AWS machine, open to the world. 
+
+Steps:
+1 – Sign up for docker hub (if you haven't already) and create a new repo on there for this homework. This will be used to connect our built image. 
+2 – Ensuring that your server code works on your machine, use a Dockerfile to build an image of this code and ensure that this can run on your machine(make sure you push this dockerfile to your GitHub repo as well!). 
+2a - If you encountered issues with docker, use the scp command and an AWS machine to install docker and perform the build task there instead.
+3 – If you haven't already, create an AWS machine (preferably using the ubuntu image), install docker on this machine and (following the steps in the video on the class site) pull down the image from docker hub that you made.
+4 – Keep this machine running and confirm that it can be accessed from another computer. Once you are happy that this IP address is working, email the IP address to both Prof. Williams and Sam (cc) so we can access the website.
+
+Note:
+Creating a webserver with NodeJS, using GitHub to manage your code versioning, dockerizing the server, using docker hub, and creating a cloud machine with AWS and connecting to it is really an amazing feat. If you can do this you will have touched up a vast amount of the modern software engineering landscape. Take a moment to appreciate that. Ideally we would hope that your online profiles indicate your familiarity with these concepts.
+Naturally, we are only scratching the surface but you will be able to add extra pieces by reading the documentations and looking at other people's examples. 
+
+Due Date: Mon Oct 21, 5pm
